@@ -1,6 +1,6 @@
 # Regex-Learning
 Week 17 project
-# Regex expressions and Matching an Email! 
+# Regex expressions and Matching Numbers! 
 
 Regex expressions or Regular Expressions are a useful way to articulate searching text for possibilities or articulate character placements. 
 
